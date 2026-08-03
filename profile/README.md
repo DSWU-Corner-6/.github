@@ -11,7 +11,7 @@
 
 | 트랙 | 대상 | 핵심 내용 | 레포지토리 |
 | :--- | :--- | :--- | :--- |
-| 신입 운영진 여름 스터디 | 신규 선발된 운영진 | 4주, Git/GitHub · 웹 기초 · Django CRUD + 배포 | https://github.com/DSWU-Corner-6/corner-2026-summer-study |
+| 신입 운영진 여름 스터디 | 신규 선발된 운영진 | 4주, Git/GitHub · 웹 기초 · Django CRUD + 배포 | https://github.com/DSWU-Corner-6/corner-2026-summer-study-git |
 | 정규 멤버 학기 커리큘럼 | 정규 멤버 | 13주(한 학기), React + Express/Prisma 풀스택 프로젝트 |  |
 | 프로젝트/스터디 팀 | 팀별 참여 멤버 | 팀 단위 자율 프로젝트 및 스터디 | 조직 **Repositories** 탭에서 팀별 레포 확인 |
 
